@@ -19,10 +19,6 @@ The elevator uses a closed-loop PID control system with limit switches at the to
 - REV Spark MAX and Spark Flex motor controllers
 - Closed-loop PID control
 - Encoder feedback and digital limit switches
-
-## File Structure
-- `WorkingCode.java`: Main robot class implementing autonomous, teleoperated, and initialization phases using the TimedRobot framework
-
 ---
 
-Developed for the 2025 FRC season as part of the team's robot control software.
+Developed for the 2025 FRC season as part of the team 10384's robot control software.
