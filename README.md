@@ -1,5 +1,6 @@
 # FRC 2025 Tank Drive Robot
-![demo](demo.png)
+<img src="demo.png" alt="demo" width="300">
+
 This repository contains the control software for the 2025 FRC robot, which features a tank drive system, an elevator mechanism, and an intake subsystem.  
 The robot is programmed in Java using WPILib and REV Spark MAX motor controllers.
 
